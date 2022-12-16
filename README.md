@@ -1,4 +1,4 @@
-# Image-Super-Resolution-SRGAN
+# Ocular Disease Prediction and Analysis
   A Tensorflow Implementation of Ocular Disease Recognition of Normal, Cataract, Glaucoma and Hypertension.
  
 ## Requirements
@@ -17,9 +17,9 @@ pip install opencv-python
 ```
 pip install tqdm
 ```
-- Pillow
+- clahe
 ```
-pip install Pillow
+pip install tf_clahe
 ```
 - imblearn
 ```
@@ -41,7 +41,7 @@ The dataset consists of
 |   ocular_pseudo.py
 |   ocular_512x512.py
 |   README.md
-```
+``` 
 
 ## Files
 
