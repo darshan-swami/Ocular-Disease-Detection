@@ -3,7 +3,7 @@
  
 ## Requirements
 ### Python
-Python version used Python 3.10.6
+Python version used Python 3.7.12
 ### Python Libraries
 - Tensorflow
 ```
